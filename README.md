@@ -118,3 +118,17 @@ extract class Product{
 
 import the package the syntax is
 import { Product } from './product'
+
+## Advantages and the disadvantages
+
+### ES Modules
+1) Code files that import or export something
+2) Organize our code files
+3) Modularize our code
+4) Promote code reuse
+
+### Angular Modules
+1) Code files that organize the application into cohesive blocks of functionality
+2) Organize our application
+3) Modularize our application
+4) Promote application boundaries
